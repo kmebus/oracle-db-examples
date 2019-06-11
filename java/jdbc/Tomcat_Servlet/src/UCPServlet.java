@@ -81,7 +81,7 @@ public class UCPServlet extends HttpServlet {
     finally {
       // Clean-up after everything
       try (Statement statement = conn.createStatement()) {
-        statement.execute("drop table EMP");
+        //statement.execute("drop table EMP");
         conn.close();
       }
       catch (SQLException e) {

@@ -2,7 +2,7 @@
         <property name="classes" value="WEB-INF/classes" />
         <property name="src" value="src" />
         <property name="dist" value="dist" />
-<property name="TOMCAT_HOME" value="/Users/test/apache-tomcat-9.0.0.M17" />	
+<property name="TOMCAT_HOME" value="/opt/tomcat/apache-tomcat-8.5.42" />	
 
   <path id="JDBCSampleDemo_classpath">
     <pathelement location="${classes}"/>

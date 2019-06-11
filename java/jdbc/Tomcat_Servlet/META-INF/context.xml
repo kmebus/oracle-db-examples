@@ -17,9 +17,9 @@
    minPoolSize="5"
    maxPoolSize="50"
    initialPoolSize="15"
-   user="jdbcuser"
-   password="XXXXXXX"
-   url="jdbc:oracle:thin:@orcldbtest_medium?TNS_ADMIN=/Users/test/ATPTesting/wallet_ORCLDBTEST"
+   user="NEW"
+   password="Welcome12345"
+   url="jdbc:oracle:thin:@orcl_MEDIUM?TNS_ADMIN=/home/ubuntu/Wallet_orcl"
  />
 
 </Context>
