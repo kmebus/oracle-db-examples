@@ -18,7 +18,7 @@
    maxPoolSize="50"
    initialPoolSize="15"
    user="NEW"
-   password="Welcome12345"
+   password="WXXXX5"
    url="jdbc:oracle:thin:@orcl_MEDIUM?TNS_ADMIN=/home/ubuntu/Wallet_orcl"
  />
 
